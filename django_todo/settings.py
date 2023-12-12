@@ -30,7 +30,7 @@ SECRET_KEY = \
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-haloegen-django-1-5u3zi9r43v.us2.codeanyapp.com']
+ALLOWED_HOSTS = ['djanjo-todo-54db86e5e71e.herokuapp.com']
 
 
 # Application definition
